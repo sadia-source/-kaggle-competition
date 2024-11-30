@@ -1,6 +1,6 @@
 # **Exploring Factors of Problematic Internet Use in Children**
 
-# In today's digital age, problematic internet use among children and adolescents is a growing concern, often linked to mental health issues like depression and anxiety. Current methods for measuring problematic internet use are complex and require professional assessments, creating barriers for many families.
+In today's digital age, problematic internet use among children and adolescents is a growing concern, often linked to mental health issues like depression and anxiety. Current methods for measuring problematic internet use are complex and require professional assessments, creating barriers for many families.
 
 Physical fitness indicators, such as posture, diet, and activity levels, are more accessible and can serve as proxies for detecting problematic internet use. Changes in these habits are commonly observed in excessive technology users.
 
